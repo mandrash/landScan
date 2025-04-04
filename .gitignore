@@ -1,3 +1,4 @@
 .venv/
-data2_normalized.las
-data_las/
+data_las/data1.las
+data_las/data2.las
+data_las/data3.las
